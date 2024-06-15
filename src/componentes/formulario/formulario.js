@@ -28,7 +28,7 @@ const Formulario = (props) => {
     return (
         <section className="formulario">
             <form onSubmit={aoSalvar}>
-                <h2>Preencha os dados para criar o card da sua coisa favorita</h2>
+                <h2>Preencha os dados para criar o card de funcionário</h2>
                 <CampoTexto 
                     obrigatorio ={true} 
                     label="Nome" 
