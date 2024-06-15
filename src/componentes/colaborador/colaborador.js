@@ -5,9 +5,8 @@ const Colaborador = ({nome, imagem, cargo, corDeFundo}) => {
         <div className='cabecalho' style={{backgroundColor: corDeFundo}}>
                 <img src={imagem} alt={nome}/>
         </div>
-        <div className='rodape'>
+        <div className='rodape-card'>
                 <h4>{nome}</h4>
-                <br/>
                 <h5>{cargo}</h5>
         </div>
     </div>)
