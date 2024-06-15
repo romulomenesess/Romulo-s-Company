@@ -1,0 +1,8 @@
+.banner {
+    background-color: #c03131;
+    color: #f6e8e8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 8rem;
+}
