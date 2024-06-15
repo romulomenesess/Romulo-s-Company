@@ -38,7 +38,7 @@ function App() {
       corSecundaria: '#FFF5D9'
     },
     {
-      nome: 'Setor de Tecnologia',
+      nome: 'Setor de TI',
       corPrimaria: '#FFBA29',
       corSecundaria: '#FFEEDF'
     },
